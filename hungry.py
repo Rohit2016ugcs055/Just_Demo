@@ -10,6 +10,3 @@ else:
     print("done!")
     else:
         print("CHECK DEMO")
-
-
-        monday
