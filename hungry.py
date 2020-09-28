@@ -8,3 +8,4 @@ else:
     if hungry=="No"
     print("do your homework")
     print("done!")
+    print("changed")
